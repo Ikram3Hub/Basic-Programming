@@ -1,3 +1,1 @@
-# Basic-Programming
-That's my first program
-<br> MY name is ikram akbar ali<br> I'm a bs student.
+# In this project(Basic-progrmming) we will practic the programming langualge(Recomaded python) step by step to build shortly programming files(related to python). 
