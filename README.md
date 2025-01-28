@@ -1,1 +1,1 @@
-# In this project(Basic-progrmming) we will practic the programming langualge(Recomaded python) step by step to build shortly programming files(related to python).
+# In this project(Basic-progrmming) we will practic the programming langualge(Recomaded python) step by step to build shortly programming files(related to python).If anybody want to learn they can join me on githb with the name of Ikram3Hub. I will try to give you more contant related to progrmming.
